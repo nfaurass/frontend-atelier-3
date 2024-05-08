@@ -1,0 +1,8 @@
+[
+    { "name": "Ordinateur portable", "price": 999, "category": "Électronique", "stock": 10 },
+    { "name": "Téléphone", "price": 799, "category": "Électronique", "stock": 8 },
+    { "name": "Livre", "price": 15, "category": "Littérature", "stock": 25 },
+    { "name": "Casque audio", "price": 149, "category": "Électronique", "stock": 3 },
+    { "name": "Chaussures de course", "price": 120, "category": "Vêtements", "stock": 6 },
+    { "name": "Sac à dos", "price": 50, "category": "Accessoires", "stock": 15 }
+  ]
