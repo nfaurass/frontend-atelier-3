@@ -4,12 +4,12 @@ L'objectif principal de cet atelier est de se familiariser avec les concepts de 
 
 ## Exercice 1
 
-Ecrire un programme fonctionnel qui prend une liste puis renvoie une autre liste selon la logique suivante :
+Ecrire un programme fonctionnel qui prend une liste puis renvoie une autre liste selon la logique suivante :<br>
 const numbers = [1, 7, 10, 9, 8 , 2]; —> [2, 8, 10]
 
 ## Exercice 2
 
-Ecrire un programme fonctionnel qui prend une liste puis renvoie une autre liste selon la logique suivante :
+Ecrire un programme fonctionnel qui prend une liste puis renvoie une autre liste selon la logique suivante :<br>
 const numbers = [1, 3, 4]; —> [1, 6, 24]
 
 ## Exercice 3
@@ -18,12 +18,12 @@ Ecrire un programme fonctionnel qui divise le texte en lignes, convertit chaque 
 
 ## Exercice 4
 
-A partir d'une liste de nombres, trouver le nombre maximum dans cette liste.
+A partir d'une liste de nombres, trouver le nombre maximum dans cette liste.<br>
 const numbers = [1, 7, 10, 9, 8]; -> 10
 
 ## Exercice 5
 
-Ecrire un programme fonctionnel qui prend un tableau d'objets représentant des produits, et calcule le prix total de tous les produits TTC (25 % TVA).
+Ecrire un programme fonctionnel qui prend un tableau d'objets représentant des produits, et calcule le prix total de tous les produits TTC (25 % TVA).<br>
 const products = [
  { name: "Shirt", price: 20 },
  { name: "Shoes", price: 50 },
